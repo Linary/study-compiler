@@ -1,6 +1,7 @@
 //
 // Created by 李凝瑞 on 2021/12/17.
 //
+#pragma once
 
 #ifndef STUDY_COMPILER_TOKENTYPE_H
 #define STUDY_COMPILER_TOKENTYPE_H

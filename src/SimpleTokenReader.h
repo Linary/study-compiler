@@ -1,6 +1,7 @@
 //
 // Created by 李凝瑞 on 2021/12/17.
 //
+#pragma once
 
 #ifndef STUDY_COMPILER_SIMPLETOKENREADER_H
 #define STUDY_COMPILER_SIMPLETOKENREADER_H
@@ -55,6 +56,5 @@ private:
     // 当前读到的token的位置
     int pos_ = 0;
 };
-
 
 #endif //STUDY_COMPILER_SIMPLETOKENREADER_H
